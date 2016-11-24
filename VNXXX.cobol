@@ -16,6 +16,7 @@
       * S.N     N. VERSAO   DATA         PROGRAMA   DESCRICAO         *
       *---------------------------------------------------------------*
       * 1.      1.00        23/11/2016   XXX        VERSAO INICIAL    *
+      * 2.      1.01        24/11/2016   MN0002     TESTE VINNIE 11   *
       *                                                               *
       *****************************************************************
       * COPYBOOKS                                                     *
@@ -39,3 +40,4 @@
        Teste Belchior 8
        Teste Vinnie 9
        Teste Vinnie 10
+       Teste VInnie 11
